@@ -1,0 +1,202 @@
+[
+    {
+        "question": "Which is the only mammal that can’t jump?",
+        "optionA": "Dog",
+        "optionB": "Elephant",
+        "optionC": "Goat",
+        "optionD": "Lion",
+        "answer": "Elephant"
+    },
+    {
+        "question": "What is the capital city of Tamil Nadu?",
+        "optionA": "Chennai",
+        "optionB": "Coimbatore",
+        "optionC": "Madurai",
+        "optionD": "Trichy",
+        "answer": "Chennai"
+    },
+    {
+        "question": "Which river flows through the city of Madurai in Tamil Nadu?",
+        "optionA": "Kaveri",
+        "optionB": "Vaigai",
+        "optionC": "Thamirabarani",
+        "optionD": "Palar",
+        "answer": "Vaigai"
+    },
+    {
+        "question": "What is the popular traditional dance form of Tamil Nadu?",
+        "optionA": "Kuchipudi",
+        "optionB": "Kathakali",
+        "optionC": "Bharatanatyam",
+        "optionD": "Kathak",
+        "answer": "Bharatanatyam"
+    },
+    {
+        "question": "Which is the famous temple known as the 'Rice Bowl of Tamil Nadu'?",
+        "optionA": "Meenakshi Temple",
+        "optionB": "Brihadeeswarar Temple",
+        "optionC": "Kanchipuram Temple",
+        "optionD": "Rameswaram Temple",
+        "answer": "Brihadeeswarar Temple"
+    },
+    {
+        "question": "Which hill station is known as the 'Queen of Hills' in Tamil Nadu?",
+        "optionA": "Yercaud",
+        "optionB": "Kodaikanal",
+        "optionC": "Ooty",
+        "optionD": "Coonoor",
+        "answer": "Ooty"
+    },
+    {
+        "question": "What is the traditional Tamil Nadu cuisine known for?",
+        "optionA": "Dosa and Idli",
+        "optionB": "Biryani",
+        "optionC": "Chole Bhature",
+        "optionD": "Sushi",
+        "answer": "Dosa and Idli"
+    },
+    {
+        "question": "Which famous festival is celebrated with grandeur in Madurai?",
+        "optionA": "Pongal",
+        "optionB": "Diwali",
+        "optionC": "Jallikattu",
+        "optionD": "Chithirai Thiruvizha",
+        "answer": "Chithirai Thiruvizha"
+    },
+    {
+        "question": "What is the official language of Tamil Nadu?",
+        "optionA": "Telugu",
+        "optionB": "Malayalam",
+        "optionC": "Tamil",
+        "optionD": "Kannada",
+        "answer": "Tamil"
+    },
+    {
+        "question": "Which wildlife sanctuary is located in Tamil Nadu and is known for its Nilgiri Tahr?",
+        "optionA": "Mudumalai Wildlife Sanctuary",
+        "optionB": "Guindy National Park",
+        "optionC": "Indira Gandhi Wildlife Sanctuary",
+        "optionD": "Vedanthangal Bird Sanctuary",
+        "answer": "Mudumalai Wildlife Sanctuary"
+    },
+    {
+        "question": "What is the southernmost tip of mainland India, located in Tamil Nadu?",
+        "optionA": "Kanyakumari",
+        "optionB": "Cape Comorin",
+        "optionC": "Rameswaram",
+        "optionD": "Thoothukudi",
+        "answer": "Kanyakumari"
+    },
+    {
+        "question": "What is the capital of France?",
+        "optionA": "Berlin",
+        "optionB": "London",
+        "optionC": "Paris",
+        "optionD": "Madrid",
+        "answer": "Paris"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "optionA": "Venus",
+        "optionB": "Mars",
+        "optionC": "Jupiter",
+        "optionD": "Saturn",
+        "answer": "Mars"
+    },
+    {
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "optionA": "Charles Dickens",
+        "optionB": "William Shakespeare",
+        "optionC": "Jane Austen",
+        "optionD": "Mark Twain",
+        "answer": "William Shakespeare"
+    },
+    {
+        "question": "In what year did World War II end?",
+        "optionA": "1945",
+        "optionB": "1939",
+        "optionC": "1955",
+        "optionD": "1940",
+        "answer": "1945"
+    },
+    {
+        "question": "What is the largest ocean on Earth?",
+        "optionA": "Atlantic Ocean",
+        "optionB": "Indian Ocean",
+        "optionC": "Arctic Ocean",
+        "optionD": "Pacific Ocean",
+        "answer": "Pacific Ocean"
+    },
+    {
+        "question": "Which is the largest mammal?",
+        "optionA": "Elephant",
+        "optionB": "Blue Whale",
+        "optionC": "Giraffe",
+        "optionD": "Hippopotamus",
+        "answer": "Blue Whale"
+    },
+    {
+        "question": "What is the powerhouse of the cell?",
+        "optionA": "Mitochondria",
+        "optionB": "Nucleus",
+        "optionC": "Endoplasmic Reticulum",
+        "optionD": "Golgi Apparatus",
+        "answer": "Mitochondria"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "optionA": "Vincent van Gogh",
+        "optionB": "Pablo Picasso",
+        "optionC": "Leonardo da Vinci",
+        "optionD": "Claude Monet",
+        "answer": "Leonardo da Vinci"
+    },
+    {
+        "question": "What is the capital of Japan?",
+        "optionA": "Beijing",
+        "optionB": "Seoul",
+        "optionC": "Tokyo",
+        "optionD": "Bangkok",
+        "answer": "Tokyo"
+    },
+    {
+        "question": "Which gas do plants absorb from the atmosphere?",
+        "optionA": "Carbon Monoxide",
+        "optionB": "Oxygen",
+        "optionC": "Nitrogen",
+        "optionD": "Carbon Dioxide",
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "question": "Who invented the telephone?",
+        "optionA": "Alexander Graham Bell",
+        "optionB": "Thomas Edison",
+        "optionC": "Nikola Tesla",
+        "optionD": "Marie Curie",
+        "answer": "Alexander Graham Bell"
+    },
+    {
+        "question": "What is the largest desert in the world?",
+        "optionA": "Gobi Desert",
+        "optionB": "Sahara Desert",
+        "optionC": "Antarctica",
+        "optionD": "Arabian Desert",
+        "answer": "Antarctica"
+    },
+    {
+        "question": "Who wrote 'To Kill a Mockingbird'?",
+        "optionA": "George Orwell",
+        "optionB": "Harper Lee",
+        "optionC": "J.K. Rowling",
+        "optionD": "Ernest Hemingway",
+        "answer": "Harper Lee"
+    },
+    {
+        "question": "What is the currency of Brazil?",
+        "optionA": "Euro",
+        "optionB": "Yen",
+        "optionC": "Real",
+        "optionD": "Dollar",
+        "answer": "Real"
+    }
+]
